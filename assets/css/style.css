@@ -1,0 +1,58 @@
+body { 
+    background-color: black;
+    background-image: url("../images/back.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
+
+}
+
+.img-responsive{
+
+    
+    width: 150px;
+    height:200px;
+
+}
+
+
+
+.same{
+    padding-left: 36px;
+    padding-right: 25px;
+    background: white;
+    overflow: auto;
+    border: solid;
+    
+}
+
+.btn{
+    width:65px;
+    height:auto;
+    
+
+}
+
+p{
+    font-size: 20px;
+    color:white;
+}
+
+h2{
+    color:white;
+    font-family: 'Ranchers', cursive;
+}
+
+h1{
+    float:right;
+    font-family: 'Amatic SC', cursive;
+    color:green;
+}
+
+.text2{
+    font-family: 'Spectral SC', serif;
+}
+.text1{
+font-family: 'Spectral SC', serif;
+}
